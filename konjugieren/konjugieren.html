@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Konjugation üben</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+    <div class="container">
+
+<div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
+  <a href="../index.html" style="
+    background-color: #e74c3c;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  ">Zurück</a>
+</div>
+
+        <h1>Konjugiere das Verb:</h1>
+        <h2 id="verb"></h2>
+        <div id="inputs">
+            <label>je <input type="text" id="1ps"></label><br>
+            <label>tu <input type="text" id="2ps"></label><br>
+            <label>il/elle <input type="text" id="3ps"></label><br>
+            <label>nous <input type="text" id="1pp"></label><br>
+            <label>vous <input type="text" id="2pp"></label><br>
+            <label>ils/elles <input type="text" id="3pp"></label><br>
+        </div>
+        <button onclick="checkAnswers()">Prüfen</button>
+        <button onclick="loadRandomVerb()">Neues Verb</button>
+        <table id="results" class="hidden">
+            <thead>
+                <tr><th>Person</th><th>Deine Antwort</th><th>Richtig</th></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+
+
+
+</body>
+</html>

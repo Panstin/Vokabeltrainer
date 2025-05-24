@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vokabeltrainer: Französisch → Deutsch</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+
+
+  <div class="container center">
+
+<div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
+  <a href="../index.html" style="
+    background-color: #e74c3c;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  ">Zurück</a>
+</div>
+
+    <h1>Französisch → Deutsch</h1>
+    <div id="quiz">
+      <p><strong>Französisch:</strong> <span id="question">...</span></p>
+      <input type="text" id="answer" placeholder="Antwort eingeben..." />
+      <div style="margin-top: 10px;">
+        <button class="button" onclick="checkAnswer()">Prüfen</button>
+        <button class="button" onclick="loadWord()">Nächstes Wort</button>
+      </div>
+      <p id="result"></p>
+    </div>
+  </div>
+  <script src="trainer.js"></script>
+
+
+
+</body>
+</html>
