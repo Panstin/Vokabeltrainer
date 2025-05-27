@@ -1,0 +1,1690 @@
+[
+  {
+    "französisch": "acheter",
+    "deutsch": "kaufen",
+    "konjugation": {
+      "présent": {
+        "1ps": "achete",
+        "2ps": "achetes",
+        "3ps": "achete",
+        "1pp": "achetons",
+        "2pp": "achetez",
+        "3pp": "achetent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "acheté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "acheter"
+      }
+    }
+  },
+  {
+    "französisch": "aimer",
+    "deutsch": "mögen",
+    "konjugation": {
+      "présent": {
+        "1ps": "aime",
+        "2ps": "aimes",
+        "3ps": "aime",
+        "1pp": "aimons",
+        "2pp": "aimez",
+        "3pp": "aiment"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "aimé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "aimer"
+      }
+    }
+  },
+  {
+    "französisch": "aller",
+    "deutsch": "gehen",
+    "konjugation": {
+      "présent": {
+        "1ps": "vais",
+        "2ps": "vas",
+        "3ps": "va",
+        "1pp": "allons",
+        "2pp": "allez",
+        "3pp": "vont"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "allé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "aller"
+      }
+    }
+  },
+  {
+    "französisch": "appeler",
+    "deutsch": "rufen",
+    "konjugation": {
+      "présent": {
+        "1ps": "appele",
+        "2ps": "appeles",
+        "3ps": "appele",
+        "1pp": "appelons",
+        "2pp": "appelez",
+        "3pp": "appelent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "appelé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "appeler"
+      }
+    }
+  },
+  {
+    "französisch": "apporter",
+    "deutsch": "bringen",
+    "konjugation": {
+      "présent": {
+        "1ps": "apporte",
+        "2ps": "apportes",
+        "3ps": "apporte",
+        "1pp": "apportons",
+        "2pp": "apportez",
+        "3pp": "apportent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "apporté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "apporter"
+      }
+    }
+  },
+  {
+    "französisch": "arriver",
+    "deutsch": "ankommen",
+    "konjugation": {
+      "présent": {
+        "1ps": "arrive",
+        "2ps": "arrives",
+        "3ps": "arrive",
+        "1pp": "arrivons",
+        "2pp": "arrivez",
+        "3pp": "arrivent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "arrivé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "arriver"
+      }
+    }
+  },
+  {
+    "französisch": "avoir",
+    "deutsch": "haben",
+    "konjugation": {
+      "présent": {
+        "1ps": "ai",
+        "2ps": "as",
+        "3ps": "a",
+        "1pp": "avons",
+        "2pp": "avez",
+        "3pp": "ont"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "eu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "avoir"
+      }
+    }
+  },
+  {
+    "französisch": "chatter",
+    "deutsch": "chatten",
+    "konjugation": {
+      "présent": {
+        "1ps": "chatte",
+        "2ps": "chattes",
+        "3ps": "chatte",
+        "1pp": "chattons",
+        "2pp": "chattez",
+        "3pp": "chattent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "chatté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "chatter"
+      }
+    }
+  },
+  {
+    "französisch": "chercher",
+    "deutsch": "suchen",
+    "konjugation": {
+      "présent": {
+        "1ps": "cherche",
+        "2ps": "cherches",
+        "3ps": "cherche",
+        "1pp": "cherchons",
+        "2pp": "cherchez",
+        "3pp": "cherchent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "cherché"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "chercher"
+      }
+    }
+  },
+  {
+    "französisch": "commencer",
+    "deutsch": "anfangen",
+    "konjugation": {
+      "présent": {
+        "1ps": "commence",
+        "2ps": "commences",
+        "3ps": "commence",
+        "1pp": "commençons",
+        "2pp": "commencez",
+        "3pp": "commencent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "commencé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "commencer"
+      }
+    }
+  },
+  {
+    "französisch": "continuer",
+    "deutsch": "fortfahren",
+    "konjugation": {
+      "présent": {
+        "1ps": "continue",
+        "2ps": "continues",
+        "3ps": "continue",
+        "1pp": "continuons",
+        "2pp": "continuez",
+        "3pp": "continuent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "continué"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "continuer"
+      }
+    }
+  },
+  {
+    "französisch": "dessiner",
+    "deutsch": "zeichnen",
+    "konjugation": {
+      "présent": {
+        "1ps": "dessine",
+        "2ps": "dessines",
+        "3ps": "dessine",
+        "1pp": "dessinons",
+        "2pp": "dessinez",
+        "3pp": "dessinent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "dessiné"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "dessiner"
+      }
+    }
+  },
+  {
+    "französisch": "détester",
+    "deutsch": "hassen",
+    "konjugation": {
+      "présent": {
+        "1ps": "déteste",
+        "2ps": "détestes",
+        "3ps": "déteste",
+        "1pp": "détestons",
+        "2pp": "détestez",
+        "3pp": "détestent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "détesté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "détester"
+      }
+    }
+  },
+  {
+    "französisch": "donner",
+    "deutsch": "geben",
+    "konjugation": {
+      "présent": {
+        "1ps": "donne",
+        "2ps": "donnes",
+        "3ps": "donne",
+        "1pp": "donnons",
+        "2pp": "donnez",
+        "3pp": "donnent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "donné"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "donner"
+      }
+    }
+  },
+  {
+    "französisch": "écouter",
+    "deutsch": "zuhören",
+    "konjugation": {
+      "présent": {
+        "1ps": "écoute",
+        "2ps": "écoutes",
+        "3ps": "écoute",
+        "1pp": "écoutons",
+        "2pp": "écoutez",
+        "3pp": "écoutent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "écouté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "écouter"
+      }
+    }
+  },
+  {
+    "französisch": "entrer",
+    "deutsch": "hineingehen",
+    "konjugation": {
+      "présent": {
+        "1ps": "entre",
+        "2ps": "entres",
+        "3ps": "entre",
+        "1pp": "entrons",
+        "2pp": "entrez",
+        "3pp": "entrent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "entré"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "entrer"
+      }
+    }
+  },
+  {
+    "französisch": "être",
+    "deutsch": "sein",
+    "konjugation": {
+      "présent": {
+        "1ps": "suis",
+        "2ps": "es",
+        "3ps": "est",
+        "1pp": "sommes",
+        "2pp": "êtes",
+        "3pp": "sont"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "été"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "être"
+      }
+    }
+  },
+  {
+    "französisch": "expliquer",
+    "deutsch": "erklären",
+    "konjugation": {
+      "présent": {
+        "1ps": "explique",
+        "2ps": "expliques",
+        "3ps": "explique",
+        "1pp": "expliquons",
+        "2pp": "expliquez",
+        "3pp": "expliquent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "expliqué"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "expliquer"
+      }
+    }
+  },
+  {
+    "französisch": "faire",
+    "deutsch": "machen",
+    "konjugation": {
+      "présent": {
+        "1ps": "fais",
+        "2ps": "fais",
+        "3ps": "fait",
+        "1pp": "faisons",
+        "2pp": "faites",
+        "3pp": "font"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "fait"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "faire"
+      }
+    }
+  },
+  {
+    "französisch": "fermer",
+    "deutsch": "schließen",
+    "konjugation": {
+      "présent": {
+        "1ps": "ferme",
+        "2ps": "fermes",
+        "3ps": "ferme",
+        "1pp": "fermons",
+        "2pp": "fermez",
+        "3pp": "ferment"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "fermé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "fermer"
+      }
+    }
+  },
+  {
+    "französisch": "fêter",
+    "deutsch": "feiern",
+    "konjugation": {
+      "présent": {
+        "1ps": "fête",
+        "2ps": "fêtes",
+        "3ps": "fête",
+        "1pp": "fêtons",
+        "2pp": "fêtez",
+        "3pp": "fêtent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "fêté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "fêter"
+      }
+    }
+  },
+  {
+    "französisch": "gaspiller",
+    "deutsch": "verschwenden",
+    "konjugation": {
+      "présent": {
+        "1ps": "gaspille",
+        "2ps": "gaspilles",
+        "3ps": "gaspille",
+        "1pp": "gaspillons",
+        "2pp": "gaspillez",
+        "3pp": "gaspillent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "gaspillé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "gaspiller"
+      }
+    }
+  },
+  {
+    "französisch": "habiter",
+    "deutsch": "wohnen",
+    "konjugation": {
+      "présent": {
+        "1ps": "habite",
+        "2ps": "habites",
+        "3ps": "habite",
+        "1pp": "habitons",
+        "2pp": "habitez",
+        "3pp": "habitent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "habité"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "habiter"
+      }
+    }
+  },
+  {
+    "französisch": "inviter",
+    "deutsch": "einladen",
+    "konjugation": {
+      "présent": {
+        "1ps": "invite",
+        "2ps": "invites",
+        "3ps": "invite",
+        "1pp": "invitons",
+        "2pp": "invitez",
+        "3pp": "invitent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "invité"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "inviter"
+      }
+    }
+  },
+  {
+    "französisch": "jouer",
+    "deutsch": "spielen",
+    "konjugation": {
+      "présent": {
+        "1ps": "joue",
+        "2ps": "joues",
+        "3ps": "joue",
+        "1pp": "jouons",
+        "2pp": "jouez",
+        "3pp": "jouent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "joué"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "jouer"
+      }
+    }
+  },
+  {
+    "französisch": "manger",
+    "deutsch": "essen",
+    "konjugation": {
+      "présent": {
+        "1ps": "mange",
+        "2ps": "manges",
+        "3ps": "mange",
+        "1pp": "mangeons",
+        "2pp": "mangez",
+        "3pp": "mangent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "mangé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "manger"
+      }
+    }
+  },
+  {
+    "französisch": "organiser",
+    "deutsch": "organisieren",
+    "konjugation": {
+      "présent": {
+        "1ps": "organise",
+        "2ps": "organises",
+        "3ps": "organise",
+        "1pp": "organisons",
+        "2pp": "organisez",
+        "3pp": "organisent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "organisé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "organiser"
+      }
+    }
+  },
+  {
+    "französisch": "oublier",
+    "deutsch": "vergessen",
+    "konjugation": {
+      "présent": {
+        "1ps": "oublie",
+        "2ps": "oublies",
+        "3ps": "oublie",
+        "1pp": "oublions",
+        "2pp": "oubliez",
+        "3pp": "oublient"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "oublié"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "oublier"
+      }
+    }
+  },
+  {
+    "französisch": "parler",
+    "deutsch": "sprechen",
+    "konjugation": {
+      "présent": {
+        "1ps": "parle",
+        "2ps": "parles",
+        "3ps": "parle",
+        "1pp": "parlons",
+        "2pp": "parlez",
+        "3pp": "parlent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "parlé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "parler"
+      }
+    }
+  },
+  {
+    "französisch": "passer",
+    "deutsch": "verbringen",
+    "konjugation": {
+      "présent": {
+        "1ps": "passe",
+        "2ps": "passes",
+        "3ps": "passe",
+        "1pp": "passons",
+        "2pp": "passez",
+        "3pp": "passent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "passé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "passer"
+      }
+    }
+  },
+  {
+    "französisch": "pouvoir",
+    "deutsch": "können",
+    "konjugation": {
+      "présent": {
+        "1ps": "peux",
+        "2ps": "peux",
+        "3ps": "peut",
+        "1pp": "pouvons",
+        "2pp": "pouvez",
+        "3pp": "peuvent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "pu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "pouvoir"
+      }
+    }
+  },
+  {
+    "französisch": "prendre",
+    "deutsch": "nehmen",
+    "konjugation": {
+      "présent": {
+        "1ps": "prends",
+        "2ps": "prends",
+        "3ps": "prend",
+        "1pp": "prenons",
+        "2pp": "prenez",
+        "3pp": "prennent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "pris"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "prendre"
+      }
+    }
+  },
+  {
+    "französisch": "préparer",
+    "deutsch": "vorbereiten",
+    "konjugation": {
+      "présent": {
+        "1ps": "prépare",
+        "2ps": "prépares",
+        "3ps": "prépare",
+        "1pp": "préparons",
+        "2pp": "préparez",
+        "3pp": "préparent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "préparé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "préparer"
+      }
+    }
+  },
+  {
+    "französisch": "raconter",
+    "deutsch": "erzählen",
+    "konjugation": {
+      "présent": {
+        "1ps": "raconte",
+        "2ps": "racontes",
+        "3ps": "raconte",
+        "1pp": "racontons",
+        "2pp": "racontez",
+        "3pp": "racontent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "raconté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "raconter"
+      }
+    }
+  },
+  {
+    "französisch": "râler",
+    "deutsch": "meckern",
+    "konjugation": {
+      "présent": {
+        "1ps": "râle",
+        "2ps": "râles",
+        "3ps": "râle",
+        "1pp": "râlons",
+        "2pp": "râlez",
+        "3pp": "râlent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "râlé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "râler"
+      }
+    }
+  },
+  {
+    "französisch": "ranger",
+    "deutsch": "aufräumen",
+    "konjugation": {
+      "présent": {
+        "1ps": "range",
+        "2ps": "ranges",
+        "3ps": "range",
+        "1pp": "rangeons",
+        "2pp": "rangez",
+        "3pp": "rangent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "rangé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "ranger"
+      }
+    }
+  },
+  {
+    "französisch": "regarder",
+    "deutsch": "anschauen",
+    "konjugation": {
+      "présent": {
+        "1ps": "regarde",
+        "2ps": "regardes",
+        "3ps": "regarde",
+        "1pp": "regardons",
+        "2pp": "regardez",
+        "3pp": "regardent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "regardé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "regarder"
+      }
+    }
+  },
+  {
+    "französisch": "rentrer",
+    "deutsch": "zurückkehren",
+    "konjugation": {
+      "présent": {
+        "1ps": "rentre",
+        "2ps": "rentres",
+        "3ps": "rentre",
+        "1pp": "rentrons",
+        "2pp": "rentrez",
+        "3pp": "rentrent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "rentré"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rentrer"
+      }
+    }
+  },
+  {
+    "französisch": "répéter",
+    "deutsch": "wiederholen",
+    "konjugation": {
+      "présent": {
+        "1ps": "répéte",
+        "2ps": "répétes",
+        "3ps": "répéte",
+        "1pp": "répétons",
+        "2pp": "répétez",
+        "3pp": "répétent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "répété"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "répéter"
+      }
+    }
+  },
+  {
+    "französisch": "rester",
+    "deutsch": "bleiben",
+    "konjugation": {
+      "présent": {
+        "1ps": "reste",
+        "2ps": "restes",
+        "3ps": "reste",
+        "1pp": "restons",
+        "2pp": "restez",
+        "3pp": "restent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "resté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rester"
+      }
+    }
+  },
+  {
+    "französisch": "rêver",
+    "deutsch": "träumen",
+    "konjugation": {
+      "présent": {
+        "1ps": "rêve",
+        "2ps": "rêves",
+        "3ps": "rêve",
+        "1pp": "rêvons",
+        "2pp": "rêvez",
+        "3pp": "rêvent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "rêvé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rêver"
+      }
+    }
+  },
+  {
+    "französisch": "rigoler",
+    "deutsch": "lachen",
+    "konjugation": {
+      "présent": {
+        "1ps": "rigole",
+        "2ps": "rigoles",
+        "3ps": "rigole",
+        "1pp": "rigolons",
+        "2pp": "rigolez",
+        "3pp": "rigolent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "rigolé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rigoler"
+      }
+    }
+  },
+  {
+    "französisch": "surfer",
+    "deutsch": "surfen",
+    "konjugation": {
+      "présent": {
+        "1ps": "surfe",
+        "2ps": "surfes",
+        "3ps": "surfe",
+        "1pp": "surfons",
+        "2pp": "surfez",
+        "3pp": "surfent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "surfé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "surfer"
+      }
+    }
+  },
+  {
+    "französisch": "surveiller",
+    "deutsch": "beaufsichtigen",
+    "konjugation": {
+      "présent": {
+        "1ps": "surveille",
+        "2ps": "surveilles",
+        "3ps": "surveille",
+        "1pp": "surveillons",
+        "2pp": "surveillez",
+        "3pp": "surveillent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "surveillé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "surveiller"
+      }
+    }
+  },
+  {
+    "französisch": "téléphoner",
+    "deutsch": "telefonieren",
+    "konjugation": {
+      "présent": {
+        "1ps": "téléphone",
+        "2ps": "téléphones",
+        "3ps": "téléphone",
+        "1pp": "téléphonons",
+        "2pp": "téléphonez",
+        "3pp": "téléphonent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "téléphoné"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "téléphoner"
+      }
+    }
+  },
+  {
+    "französisch": "terminer",
+    "deutsch": "beenden",
+    "konjugation": {
+      "présent": {
+        "1ps": "termine",
+        "2ps": "termines",
+        "3ps": "termine",
+        "1pp": "terminons",
+        "2pp": "terminez",
+        "3pp": "terminent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "terminé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "terminer"
+      }
+    }
+  },
+  {
+    "französisch": "travailler",
+    "deutsch": "arbeiten",
+    "konjugation": {
+      "présent": {
+        "1ps": "travaille",
+        "2ps": "travailles",
+        "3ps": "travaille",
+        "1pp": "travaillons",
+        "2pp": "travaillez",
+        "3pp": "travaillent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "travaillé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "travailler"
+      }
+    }
+  },
+  {
+    "französisch": "trouver",
+    "deutsch": "finden",
+    "konjugation": {
+      "présent": {
+        "1ps": "trouve",
+        "2ps": "trouves",
+        "3ps": "trouve",
+        "1pp": "trouvons",
+        "2pp": "trouvez",
+        "3pp": "trouvent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "trouvé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "trouver"
+      }
+    }
+  },
+  {
+    "französisch": "visiter",
+    "deutsch": "besuchen",
+    "konjugation": {
+      "présent": {
+        "1ps": "visite",
+        "2ps": "visites",
+        "3ps": "visite",
+        "1pp": "visitons",
+        "2pp": "visitez",
+        "3pp": "visitent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "visité"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "visiter"
+      }
+    }
+  },
+  {
+    "französisch": "vouloir",
+    "deutsch": "wollen",
+    "konjugation": {
+      "présent": {
+        "1ps": "veux",
+        "2ps": "veux",
+        "3ps": "veut",
+        "1pp": "voulons",
+        "2pp": "voulez",
+        "3pp": "veulent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "voulu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "vouloir"
+      }
+    }
+  },
+  {
+    "französisch": "présenter",
+    "deutsch": [
+      "vorstellen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "présente",
+        "2ps": "présentes",
+        "3ps": "présente",
+        "1pp": "présentons",
+        "2pp": "présentez",
+        "3pp": "présentent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "présenté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "présenter"
+      }
+    }
+  },
+  {
+    "französisch": "traverser",
+    "deutsch": [
+      "durchqueren",
+      "überqueren"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "traverse",
+        "2ps": "traverses",
+        "3ps": "traverse",
+        "1pp": "traversons",
+        "2pp": "traversez",
+        "3pp": "traversent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "traversé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "traverser"
+      }
+    }
+  },
+  {
+    "französisch": "sortir",
+    "deutsch": [
+      "ausgehen",
+      "hinausgehen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "sors",
+        "2ps": "sors",
+        "3ps": "sort",
+        "1pp": "sortons",
+        "2pp": "sortez",
+        "3pp": "sortent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "sorti"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "sortir"
+      }
+    }
+  },
+  {
+    "französisch": "partir",
+    "deutsch": [
+      "losgehen",
+      "wegfahren"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "pars",
+        "2ps": "pars",
+        "3ps": "part",
+        "1pp": "partons",
+        "2pp": "partez",
+        "3pp": "partent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "parti"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "partir"
+      }
+    }
+  },
+  {
+    "französisch": "venir",
+    "deutsch": [
+      "kommen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "viens",
+        "2ps": "viens",
+        "3ps": "vient",
+        "1pp": "venons",
+        "2pp": "venez",
+        "3pp": "viennent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "venu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "venir"
+      }
+    }
+  },
+  {
+    "französisch": "marcher",
+    "deutsch": [
+      "laufen",
+      "gehen",
+      "funktionieren"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "marche",
+        "2ps": "marches",
+        "3ps": "marche",
+        "1pp": "marchons",
+        "2pp": "marchez",
+        "3pp": "marchent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "marché"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "marcher"
+      }
+    }
+  },
+  {
+    "französisch": "attendre",
+    "deutsch": [
+      "warten"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "attends",
+        "2ps": "attends",
+        "3ps": "attend",
+        "1pp": "attendons",
+        "2pp": "attendez",
+        "3pp": "attendent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "attendu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "attendre"
+      }
+    }
+  },
+  {
+    "französisch": "répéter",
+    "deutsch": [
+      "wiederholen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "répète",
+        "2ps": "répètes",
+        "3ps": "répète",
+        "1pp": "répétons",
+        "2pp": "répétez",
+        "3pp": "répètent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "répété"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "répéter"
+      }
+    }
+  },
+  {
+    "französisch": "répondre",
+    "deutsch": [
+      "antworten",
+      "beantworten"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "réponds",
+        "2ps": "réponds",
+        "3ps": "répond",
+        "1pp": "répondons",
+        "2pp": "répondez",
+        "3pp": "répondent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "répondu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "répondre"
+      }
+    }
+  },
+  {
+    "französisch": "descendre",
+    "deutsch": [
+      "aussteigen",
+      "hinuntergehen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "descends",
+        "2ps": "descends",
+        "3ps": "descend",
+        "1pp": "descendons",
+        "2pp": "descendez",
+        "3pp": "descendent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "descendu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "descendre"
+      }
+    }
+  },
+  {
+    "französisch": "corriger",
+    "deutsch": [
+      "korrigieren",
+      "berichtigen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "corrige",
+        "2ps": "corriges",
+        "3ps": "corrige",
+        "1pp": "corrigeons",
+        "2pp": "corrigez",
+        "3pp": "corrigent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "corrigé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "corriger"
+      }
+    }
+  },
+  {
+    "französisch": "lire",
+    "deutsch": [
+      "lesen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "lis",
+        "2ps": "lis",
+        "3ps": "lit",
+        "1pp": "lisons",
+        "2pp": "lisez",
+        "3pp": "lisent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "lu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "lire"
+      }
+    }
+  },
+  {
+    "französisch": "apprendre",
+    "deutsch": [
+      "lernen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "apprends",
+        "2ps": "apprends",
+        "3ps": "apprend",
+        "1pp": "apprenons",
+        "2pp": "apprenez",
+        "3pp": "apprennent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "appris"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "apprendre"
+      }
+    }
+  },
+  {
+    "französisch": "danser",
+    "deutsch": [
+      "tanzen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "danse",
+        "2ps": "danses",
+        "3ps": "danse",
+        "1pp": "dansons",
+        "2pp": "dansez",
+        "3pp": "dansent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "dansé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "danser"
+      }
+    }
+  },
+  {
+    "französisch": "chanter",
+    "deutsch": [
+      "singen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "chante",
+        "2ps": "chantes",
+        "3ps": "chante",
+        "1pp": "chantons",
+        "2pp": "chantez",
+        "3pp": "chantent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "chanté"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "chanter"
+      }
+    }
+  },
+  {
+    "französisch": "composer",
+    "deutsch": [
+      "komponieren"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "compose",
+        "2ps": "composes",
+        "3ps": "compose",
+        "1pp": "composons",
+        "2pp": "composez",
+        "3pp": "composent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "composé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "composer"
+      }
+    }
+  },
+  {
+    "französisch": "rencontrer",
+    "deutsch": [
+      "begegnen",
+      "treffen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "rencontre",
+        "2ps": "rencontres",
+        "3ps": "rencontre",
+        "1pp": "rencontrons",
+        "2pp": "rencontrez",
+        "3pp": "rencontrent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "rencontré"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rencontrer"
+      }
+    }
+  },
+  {
+    "französisch": "rigoler",
+    "deutsch": [
+      "lachen",
+      "Spaß haben"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "rigole",
+        "2ps": "rigoles",
+        "3ps": "rigole",
+        "1pp": "rigolons",
+        "2pp": "rigolez",
+        "3pp": "rigolent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "rigolé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rigoler"
+      }
+    }
+  },
+  {
+    "französisch": "comprendre",
+    "deutsch": [
+      "verstehen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "comprends",
+        "2ps": "comprends",
+        "3ps": "comprend",
+        "1pp": "comprenons",
+        "2pp": "comprenez",
+        "3pp": "comprennent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "compris"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "comprendre"
+      }
+    }
+  },
+  {
+    "französisch": "ramasser",
+    "deutsch": [
+      "sammeln"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "ramasse",
+        "2ps": "ramasses",
+        "3ps": "ramasse",
+        "1pp": "ramassons",
+        "2pp": "ramassez",
+        "3pp": "ramassent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "ramassé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "ramasser"
+      }
+    }
+  },
+  {
+    "französisch": "retourner",
+    "deutsch": [
+      "zurückkehren"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "retourne",
+        "2ps": "retournes",
+        "3ps": "retourne",
+        "1pp": "retournons",
+        "2pp": "retournez",
+        "3pp": "retournent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "retourné"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "retourner"
+      }
+    }
+  },
+  {
+    "französisch": "retrouver",
+    "deutsch": [
+      "treffen",
+      "wiederfinden"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "retrouve",
+        "2ps": "retrouves",
+        "3ps": "retrouve",
+        "1pp": "retrouvons",
+        "2pp": "retrouvez",
+        "3pp": "retrouvent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "retrouvé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "retrouver"
+      }
+    }
+  },
+  {
+    "französisch": "rouler",
+    "deutsch": [
+      "fahren",
+      "rollen"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "roule",
+        "2ps": "roules",
+        "3ps": "roule",
+        "1pp": "roulons",
+        "2pp": "roulez",
+        "3pp": "roulent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "roulé"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "rouler"
+      }
+    }
+  },
+  {
+    "französisch": "devenir",
+    "deutsch": [
+      "werden"
+    ],
+    "konjugation": {
+      "présent": {
+        "1ps": "deviens",
+        "2ps": "deviens",
+        "3ps": "devient",
+        "1pp": "devenons",
+        "2pp": "devenez",
+        "3pp": "deviennent"
+      },
+      "passé_composé": {
+        "auxiliaire": "être",
+        "participe": "devenu"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "devenir"
+      }
+    }
+  }
+]

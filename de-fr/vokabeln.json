@@ -1,0 +1,1418 @@
+[
+  {
+    "fr": "Nantes",
+    "de": [
+      "Nantes"
+    ]
+  },
+  {
+    "fr": "le château",
+    "de": [
+      "das Schloss"
+    ]
+  },
+  {
+    "fr": "un éléphant",
+    "de": [
+      "ein Elefant"
+    ]
+  },
+  {
+    "fr": "la machine",
+    "de": [
+      "die Maschiene"
+    ]
+  },
+  {
+    "fr": "une île",
+    "de": [
+      "eine Insel"
+    ]
+  },
+  {
+    "fr": "le centre-ville",
+    "de": [
+      "das Stadtzentrum"
+    ]
+  },
+  {
+    "fr": "le skatepark",
+    "de": [
+      "der Skatepark"
+    ]
+  },
+  {
+    "fr": "le bâtiment",
+    "de": [
+      "das Gebäude"
+    ]
+  },
+  {
+    "fr": "la maison",
+    "de": [
+      "das Haus"
+    ]
+  },
+  {
+    "fr": "le monument",
+    "de": [
+      "das Bauwerk",
+      "das Denkmal"
+    ]
+  },
+  {
+    "fr": "une oevre d`art",
+    "de": [
+      "dein Kunstwerk"
+    ]
+  },
+  {
+    "fr": "le port",
+    "de": [
+      "der Hafen"
+    ]
+  },
+  {
+    "fr": "le pont",
+    "de": [
+      "die Brücke"
+    ]
+  },
+  {
+    "fr": "le fleuve",
+    "de": [
+      "der Fluss"
+    ]
+  },
+  {
+    "fr": "la place",
+    "de": [
+      "der Platz"
+    ]
+  },
+  {
+    "fr": "la rue piétonne",
+    "de": [
+      "die Fußgängerzone"
+    ]
+  },
+  {
+    "fr": "le tram",
+    "de": [
+      "die Straßenbahm"
+    ]
+  },
+  {
+    "fr": "un arrêt",
+    "de": [
+      "eine Haltestelle",
+      "ein Halt"
+    ]
+  },
+  {
+    "fr": "le carrefour",
+    "de": [
+      "die Kreuzung"
+    ]
+  },
+  {
+    "fr": "qui",
+    "de": [
+      "der",
+      "die",
+      "das"
+    ]
+  },
+  {
+    "fr": "il se trouve",
+    "de": [
+      "er befindet sich",
+      "er liegt",
+      "es befindet sich",
+      "es liegt"
+    ]
+  },
+  {
+    "fr": "elle se trouve",
+    "de": [
+      "sie befindet sich",
+      "sie liegt"
+    ]
+  },
+  {
+    "fr": "célèbre",
+    "de": [
+      "berühmt"
+    ]
+  },
+  {
+    "fr": "un auteur",
+    "de": [
+      "ein Autor"
+    ]
+  },
+  {
+    "fr": "une autere",
+    "de": [
+      "eine Autorin"
+    ]
+  },
+  {
+    "fr": "le voyage",
+    "de": [
+      "die Reise"
+    ]
+  },
+  {
+    "fr": "extraordinaire",
+    "de": [
+      "außergewöhnlich"
+    ]
+  },
+  {
+    "fr": "où",
+    "de": [
+      "wo"
+    ]
+  },
+  {
+    "fr": "la spécialité",
+    "de": [
+      "die Spezialität"
+    ]
+  },
+  {
+    "fr": "le parcours",
+    "de": [
+      "der Rundgang",
+      "die Stecke"
+    ]
+  },
+  {
+    "fr": "le jeune",
+    "de": [
+      "der Jugendliche"
+    ]
+  },
+  {
+    "fr": "la jeune",
+    "de": [
+      "die Jugendliche"
+    ]
+  },
+  {
+    "fr": "chiller",
+    "de": [
+      "chillen"
+    ]
+  },
+  {
+    "fr": "un arbre",
+    "de": [
+      "ein Baum"
+    ]
+  },
+  {
+    "fr": "le ping-pong",
+    "de": [
+      "Tischtennis"
+    ]
+  },
+  {
+    "fr": "ils se trouvent",
+    "de": [
+      "sie befinden sich",
+      "sie liegen"
+    ]
+  },
+  {
+    "fr": "elles se trouvent",
+    "de": [
+      "sie befinden sich",
+      "sie liegen"
+    ]
+  },
+  {
+    "fr": "né",
+    "de": [
+      "geboren"
+    ]
+  },
+  {
+    "fr": "partir en week-end",
+    "de": [
+      "am Wochenende wegfahren"
+    ]
+  },
+  {
+    "fr": "le vélo",
+    "de": [
+      "das Fahrrad"
+    ]
+  },
+  {
+    "fr": "à vélo",
+    "de": [
+      "mit dem Fahrrad"
+    ]
+  },
+  {
+    "fr": "le bateau",
+    "de": [
+      "das Schiff",
+      "das Boot"
+    ]
+  },
+  {
+    "fr": "moderne",
+    "de": [
+      "modern"
+    ]
+  },
+  {
+    "fr": "la chaîne",
+    "de": [
+      "der Kanal"
+    ]
+  },
+  {
+    "fr": "sur",
+    "de": [
+      "über"
+    ]
+  },
+  {
+    "fr": "prendre à gauche",
+    "de": [
+      "links abbiegen"
+    ]
+  },
+  {
+    "fr": "prendre à droite",
+    "de": [
+      "rechts abbiegen"
+    ]
+  },
+  {
+    "fr": "continuer",
+    "de": [
+      "weitergehen",
+      "weiterfahren"
+    ]
+  },
+  {
+    "fr": "tout droit",
+    "de": [
+      "gerade aus"
+    ]
+  },
+  {
+    "fr": "jusqu`à",
+    "de": [
+      "bis"
+    ]
+  },
+  {
+    "fr": "deuxième",
+    "de": [
+      "zweiter",
+      "zweite",
+      "zweites"
+    ]
+  },
+  {
+    "fr": "en face",
+    "de": [
+      "gegenüber"
+    ]
+  },
+  {
+    "fr": "important",
+    "de": [
+      "wichtig"
+    ]
+  },
+  {
+    "fr": "beaucoup de monde",
+    "de": [
+      "viele Leute"
+    ]
+  },
+  {
+    "fr": "quel",
+    "de": [
+      "welcher",
+      "was für ein"
+    ]
+  },
+  {
+    "fr": "quelle",
+    "de": [
+      "welche",
+      "was für ein"
+    ]
+  },
+  {
+    "fr": "quels",
+    "de": [
+      "welches",
+      "was für eine"
+    ]
+  },
+  {
+    "fr": "quelles",
+    "de": [
+      "welches",
+      "was für eine"
+    ]
+  },
+  {
+    "fr": "le nom",
+    "de": [
+      "der Name",
+      "der Nachname"
+    ]
+  },
+  {
+    "fr": "le trampoline",
+    "de": [
+      "das Trampolin"
+    ]
+  },
+  {
+    "fr": "la longueur",
+    "de": [
+      "die Länge"
+    ]
+  },
+  {
+    "fr": "la hauteur",
+    "de": [
+      "die Höhe"
+    ]
+  },
+  {
+    "fr": "le mètre",
+    "de": [
+      "der Meter"
+    ]
+  },
+  {
+    "fr": "la couleur",
+    "de": [
+      "die Farbe"
+    ]
+  },
+  {
+    "fr": "À vous, maintenant!",
+    "de": [
+      "Jetzt seid ihr da!"
+    ]
+  },
+  {
+    "fr": "vrai",
+    "de": [
+      "WAHR",
+      "richtig",
+      "echt"
+    ]
+  },
+  {
+    "fr": "le touriste",
+    "de": [
+      "der Tourist"
+    ]
+  },
+  {
+    "fr": "la touriste",
+    "de": [
+      "die Touristin"
+    ]
+  },
+  {
+    "fr": "non?",
+    "de": [
+      "nicht wahr?",
+      ", oder?"
+    ]
+  },
+  {
+    "fr": "la fin",
+    "de": [
+      "das Ende"
+    ]
+  },
+  {
+    "fr": "le départ",
+    "de": [
+      "die Abfahrt"
+    ]
+  },
+  {
+    "fr": "pour",
+    "de": [
+      "nach"
+    ]
+  },
+  {
+    "fr": "content",
+    "de": [
+      "zufrieden",
+      "froh"
+    ]
+  },
+  {
+    "fr": "le train",
+    "de": [
+      "der Zug"
+    ]
+  },
+  {
+    "fr": "quand",
+    "de": [
+      "wenn",
+      "immer wenn",
+      "als"
+    ]
+  },
+  {
+    "fr": "le billet",
+    "de": [
+      "das Ticket",
+      "der Schein",
+      "der Fahrschein"
+    ]
+  },
+  {
+    "fr": "la valise",
+    "de": [
+      "der Koffer"
+    ]
+  },
+  {
+    "fr": "une annonce",
+    "de": [
+      "eine Anzeige",
+      "eine Ansage"
+    ]
+  },
+  {
+    "fr": "la voie",
+    "de": [
+      "das Gleis"
+    ]
+  },
+  {
+    "fr": "Zut!",
+    "de": [
+      "Mist!"
+    ]
+  },
+  {
+    "fr": "allez!",
+    "de": [
+      "Los!",
+      "Kommt schon!"
+    ]
+  },
+  {
+    "fr": "on y va!",
+    "de": [
+      "Los gehts!",
+      "Wir gehen dahin!"
+    ]
+  },
+  {
+    "fr": "la minute",
+    "de": [
+      "die Minute"
+    ]
+  },
+  {
+    "fr": "il faut",
+    "de": [
+      "man muss etwas tun",
+      "wir müssen etwas tun"
+    ]
+  },
+  {
+    "fr": "il ne faut pas",
+    "de": [
+      "man darf etwas nicht tun",
+      "man soll etwas nicht tun",
+      "wir dürfen etwas nicht tun",
+      "wir sollen etwas nicht tun"
+    ]
+  },
+  {
+    "fr": "rater",
+    "de": [
+      "verpassen"
+    ]
+  },
+  {
+    "fr": "le massage",
+    "de": [
+      "die Nachicht"
+    ]
+  },
+  {
+    "fr": "le quain",
+    "de": [
+      "der Bahnstieg"
+    ]
+  },
+  {
+    "fr": "la batterie",
+    "de": [
+      "der Akku"
+    ]
+  },
+  {
+    "fr": "la tablette",
+    "de": [
+      "das Tablet"
+    ]
+  },
+  {
+    "fr": "les écouteurs",
+    "de": [
+      "die Kopfhörer"
+    ]
+  },
+  {
+    "fr": "un exercice",
+    "de": [
+      "eine Übung"
+    ]
+  },
+  {
+    "fr": "le numéro",
+    "de": [
+      "die Nummer"
+    ]
+  },
+  {
+    "fr": "en groupe",
+    "de": [
+      "in der Gruppe"
+    ]
+  },
+  {
+    "fr": "la page",
+    "de": [
+      "die Seite"
+    ]
+  },
+  {
+    "fr": "Ça y est!",
+    "de": [
+      "so, es ist so weit"
+    ]
+  },
+  {
+    "fr": "Vous avez fini?",
+    "de": [
+      "Seid ihr fertig?"
+    ]
+  },
+  {
+    "fr": "c`est à...",
+    "de": [
+      "...ist dran."
+    ]
+  },
+  {
+    "fr": "le vocabulaire",
+    "de": [
+      "das Vokabular",
+      "der Wortschatz"
+    ]
+  },
+  {
+    "fr": "une unité",
+    "de": [
+      "eine Lektion"
+    ]
+  },
+  {
+    "fr": "le contrôle",
+    "de": [
+      "die Kontrolle",
+      "die Leistungskontrolle"
+    ]
+  },
+  {
+    "fr": "une adventure",
+    "de": [
+      "ein Abenteuer"
+    ]
+  },
+  {
+    "fr": "le tour",
+    "de": [
+      "die Tour",
+      "die Reise",
+      "die Rundfahrt"
+    ]
+  },
+  {
+    "fr": "le bunker",
+    "de": [
+      "der Bunker"
+    ]
+  },
+  {
+    "fr": "le sous-marin",
+    "de": [
+      "das U-Boot"
+    ]
+  },
+  {
+    "fr": "le passage",
+    "de": [
+      "die Passage",
+      "der Durchgang"
+    ]
+  },
+  {
+    "fr": "tôt",
+    "de": [
+      "früh"
+    ]
+  },
+  {
+    "fr": "tard",
+    "de": [
+      "spät"
+    ]
+  },
+  {
+    "fr": "en ville",
+    "de": [
+      "in der Stadt",
+      "in die Stadt"
+    ]
+  },
+  {
+    "fr": "une excursion",
+    "de": [
+      "ein Ausflug"
+    ]
+  },
+  {
+    "fr": "faire la fête",
+    "de": [
+      "feiern"
+    ]
+  },
+  {
+    "fr": "le chanson",
+    "de": [
+      "das Lied"
+    ]
+  },
+  {
+    "fr": "plein de",
+    "de": [
+      "viel",
+      "viele"
+    ]
+  },
+  {
+    "fr": "les boules",
+    "de": [
+      "Boule",
+      "das Boulespiel"
+    ]
+  },
+  {
+    "fr": "un adventurier",
+    "de": [
+      "ein Abenteurer"
+    ]
+  },
+  {
+    "fr": "une adventurière",
+    "de": [
+      "eine Abenteurin"
+    ]
+  },
+  {
+    "fr": "français",
+    "de": [
+      "französisch"
+    ]
+  },
+  {
+    "fr": "française",
+    "de": [
+      "französisch"
+    ]
+  },
+  {
+    "fr": "en",
+    "de": [
+      "im"
+    ]
+  },
+  {
+    "fr": "une année",
+    "de": [
+      "ein Jahr"
+    ]
+  },
+  {
+    "fr": "à...ans",
+    "de": [
+      "mit...Jahrem"
+    ]
+  },
+  {
+    "fr": "le pays",
+    "de": [
+      "das Land"
+    ]
+  },
+  {
+    "fr": "surtout",
+    "de": [
+      "vor allem"
+    ]
+  },
+  {
+    "fr": "la tête",
+    "de": [
+      "der Kopf"
+    ]
+  },
+  {
+    "fr": "le monde",
+    "de": [
+      "die Welt"
+    ]
+  },
+  {
+    "fr": "le roman",
+    "de": [
+      "der Roman"
+    ]
+  },
+  {
+    "fr": "un héros",
+    "de": [
+      "ein Held"
+    ]
+  },
+  {
+    "fr": "une héroïne",
+    "de": [
+      "eine Heldin"
+    ]
+  },
+  {
+    "fr": "un artist",
+    "de": [
+      "ein Künstler"
+    ]
+  },
+  {
+    "fr": "une artist",
+    "de": [
+      "eine Künstlerin"
+    ]
+  },
+  {
+    "fr": "seulement",
+    "de": [
+      "nur",
+      "nur noch",
+      "erst"
+    ]
+  },
+  {
+    "fr": "le prix",
+    "de": [
+      "der Preis"
+    ]
+  },
+  {
+    "fr": "la mécanique",
+    "de": [
+      "die Mechanik"
+    ]
+  },
+  {
+    "fr": "la passion",
+    "de": [
+      "die Leidenschaft"
+    ]
+  },
+  {
+    "fr": "la saison",
+    "de": [
+      "die Jahreszeit",
+      "die Staffel"
+    ]
+  },
+  {
+    "fr": "la dent",
+    "de": [
+      "der Zahn"
+    ]
+  },
+  {
+    "fr": "le centimètre",
+    "de": [
+      "der Zentimeter"
+    ]
+  },
+  {
+    "fr": "le tou",
+    "de": [
+      "das Loch"
+    ]
+  },
+  {
+    "fr": "au début",
+    "de": [
+      "am Anfang",
+      "zuerst"
+    ]
+  },
+  {
+    "fr": "et puis",
+    "de": [
+      "außerdem"
+    ]
+  },
+  {
+    "fr": "avant",
+    "de": [
+      "vor",
+      "davor"
+    ]
+  },
+  {
+    "fr": "tout à coup",
+    "de": [
+      "plötzlich"
+    ]
+  },
+  {
+    "fr": "finalement",
+    "de": [
+      "letztendlich",
+      "schließlich"
+    ]
+  },
+  {
+    "fr": "tout le temps",
+    "de": [
+      "die ganze Zeit",
+      "ständig"
+    ]
+  },
+  {
+    "fr": "faire un tour",
+    "de": [
+      "spazieren gehen",
+      "eine Runde",
+      "drehen"
+    ]
+  },
+  {
+    "fr": "avoir peur",
+    "de": [
+      "Angst haben",
+      "Angst bekommen"
+    ]
+  },
+  {
+    "fr": "avoir mal",
+    "de": [
+      "Schmerzen haben"
+    ]
+  },
+  {
+    "fr": "c`était",
+    "de": [
+      "das war",
+      "es war"
+    ]
+  },
+  {
+    "fr": "l`aviron",
+    "de": [
+      "das Rudern"
+    ]
+  },
+  {
+    "fr": "la course-poursuite",
+    "de": [
+      "die Verfolgunsjagt"
+    ]
+  },
+  {
+    "fr": "Aïe!",
+    "de": [
+      "Aua!"
+    ]
+  },
+  {
+    "fr": "la nuit",
+    "de": [
+      "die Nacht",
+      "nachts"
+    ]
+  },
+  {
+    "fr": "hier",
+    "de": [
+      "gestern"
+    ]
+  },
+  {
+    "fr": "après",
+    "de": [
+      "nach"
+    ]
+  },
+  {
+    "fr": "la marée haute",
+    "de": [
+      "die Flut",
+      "das Hochwasser"
+    ]
+  },
+  {
+    "fr": "la marée basse",
+    "de": [
+      "die Ebbe",
+      "das Niedrigwasser"
+    ]
+  },
+  {
+    "fr": "la balise",
+    "de": [
+      "die Boje"
+    ]
+  },
+  {
+    "fr": "au milieur",
+    "de": [
+      "in der Mitte",
+      "mitten in"
+    ]
+  },
+  {
+    "fr": "la pause",
+    "de": [
+      "die Pause"
+    ]
+  },
+  {
+    "fr": "le coquillage",
+    "de": [
+      "Die Muschel"
+    ]
+  },
+  {
+    "fr": "le bus",
+    "de": [
+      "der Bus"
+    ]
+  },
+  {
+    "fr": "crier",
+    "de": [
+      "Schreien"
+    ]
+  },
+  {
+    "fr": "retourner",
+    "de": [
+      "zurückkehren"
+    ]
+  },
+  {
+    "fr": "la route",
+    "de": [
+      "die Route"
+    ]
+  },
+  {
+    "fr": "la surprise",
+    "de": [
+      "die Überraschung"
+    ]
+  },
+  {
+    "fr": "tout de suite",
+    "de": [
+      "sofort"
+    ]
+  },
+  {
+    "fr": "le record",
+    "de": [
+      "der Rekord"
+    ]
+  },
+  {
+    "fr": "haut/haute",
+    "de": [
+      "hoch"
+    ]
+  },
+  {
+    "fr": "l´Europe",
+    "de": [
+      "Europa"
+    ]
+  },
+  {
+    "fr": "l`ouest",
+    "de": [
+      "der Westen"
+    ]
+  },
+  {
+    "fr": "les Alpes",
+    "de": [
+      "die Alpen"
+    ]
+  },
+  {
+    "fr": "court/courte",
+    "de": [
+      "kurz"
+    ]
+  },
+  {
+    "fr": "long/longue",
+    "de": [
+      "lang"
+    ]
+  },
+  {
+    "fr": "le village",
+    "de": [
+      "das Dorf"
+    ]
+  },
+  {
+    "fr": "rapide",
+    "de": [
+      "schnell"
+    ]
+  },
+  {
+    "fr": "le kilométre",
+    "de": [
+      "der Kilometer"
+    ]
+  },
+  {
+    "fr": "moins...que",
+    "de": [
+      "weniger...als",
+      "nicht so...wie"
+    ]
+  },
+  {
+    "fr": "plus...que",
+    "de": [
+      "mehr...als"
+    ]
+  },
+  {
+    "fr": "aussi...que",
+    "de": [
+      "genau so...wie",
+      "so...wie"
+    ]
+  },
+  {
+    "fr": "meilleur...que",
+    "de": [
+      "besser"
+    ]
+  },
+  {
+    "fr": "l`or",
+    "de": [
+      "das Gold"
+    ]
+  },
+  {
+    "fr": "l`argent",
+    "de": [
+      "das Silber"
+    ]
+  },
+  {
+    "fr": "la femme",
+    "de": [
+      "die Frau",
+      "die Ehefrau"
+    ]
+  },
+  {
+    "fr": "un homme",
+    "de": [
+      "ein Mann"
+    ]
+  },
+  {
+    "fr": "puissant",
+    "de": [
+      "mächtig"
+    ]
+  },
+  {
+    "fr": "le chef",
+    "de": [
+      "der Chef"
+    ]
+  },
+  {
+    "fr": "la chef",
+    "de": [
+      "die Chefin"
+    ]
+  },
+  {
+    "fr": "le chef de cuisine",
+    "de": [
+      "der Küchenchef"
+    ]
+  },
+  {
+    "fr": "la chef de cuisine",
+    "de": [
+      "die Küchenchefin"
+    ]
+  },
+  {
+    "fr": "le meilleur",
+    "de": [
+      "der beste",
+      "das beste"
+    ]
+  },
+  {
+    "fr": "la meilleure",
+    "de": [
+      "die beste"
+    ]
+  },
+  {
+    "fr": "impressionnant",
+    "de": [
+      "beeindruckend"
+    ]
+  },
+  {
+    "fr": "présenter",
+    "de": [
+      "vorstellen"
+    ]
+  },
+  {
+    "fr": "traverser",
+    "de": [
+      "durchqueren",
+      "überqueren"
+    ]
+  },
+  {
+    "fr": "sortir",
+    "de": [
+      "ausgehen",
+      "hinausgehen"
+    ]
+  },
+  {
+    "fr": "partir",
+    "de": [
+      "losgehen",
+      "wegfahren"
+    ]
+  },
+  {
+    "fr": "venir",
+    "de": [
+      "kommen"
+    ]
+  },
+  {
+    "fr": "marcher",
+    "de": [
+      "laufen",
+      "gehen",
+      "funktionerten"
+    ]
+  },
+  {
+    "fr": "attendre",
+    "de": [
+      "warten"
+    ]
+  },
+  {
+    "fr": "répéter",
+    "de": [
+      "wiederholen"
+    ]
+  },
+  {
+    "fr": "repondre",
+    "de": [
+      "antworten",
+      "beantworten"
+    ]
+  },
+  {
+    "fr": "descendre",
+    "de": [
+      "aussteigen",
+      "hinuntergehen"
+    ]
+  },
+  {
+    "fr": "corriger",
+    "de": [
+      "korrigieren",
+      "berichtigen"
+    ]
+  },
+  {
+    "fr": "lire",
+    "de": [
+      "lesen"
+    ]
+  },
+  {
+    "fr": "apprendre",
+    "de": [
+      "lernen"
+    ]
+  },
+  {
+    "fr": "danser",
+    "de": [
+      "tanzen"
+    ]
+  },
+  {
+    "fr": "chanter",
+    "de": [
+      "singen"
+    ]
+  },
+  {
+    "fr": "composer",
+    "de": [
+      "komponieren"
+    ]
+  },
+  {
+    "fr": "jouer",
+    "de": [
+      "spielen"
+    ]
+  },
+  {
+    "fr": "voyager",
+    "de": [
+      "reisen"
+    ]
+  },
+  {
+    "fr": "gagner",
+    "de": [
+      "gewinnen"
+    ]
+  },
+  {
+    "fr": "imiter",
+    "de": [
+      "nachahmen",
+      "nachmachen"
+    ]
+  },
+  {
+    "fr": "inventer",
+    "de": [
+      "erfinden"
+    ]
+  },
+  {
+    "fr": "monter",
+    "de": [
+      "steigen",
+      "hinaufsteigen",
+      "ansteigen"
+    ]
+  },
+  {
+    "fr": "tomber",
+    "de": [
+      "fallen",
+      "hinfallen"
+    ]
+  },
+  {
+    "fr": "racontrer",
+    "de": [
+      "begegnen",
+      "treffen"
+    ]
+  },
+  {
+    "fr": "rigoler",
+    "de": [
+      "lachen",
+      "Spaß haben"
+    ]
+  },
+  {
+    "fr": "comprendre",
+    "de": [
+      "verstehen"
+    ]
+  },
+  {
+    "fr": "ramasser",
+    "de": [
+      "sammeln"
+    ]
+  },
+  {
+    "fr": "retourner",
+    "de": [
+      "zurückkehren"
+    ]
+  },
+  {
+    "fr": "retrouver",
+    "de": [
+      "treffen",
+      "wiederfinden"
+    ]
+  },
+  {
+    "fr": "rouler",
+    "de": [
+      "fahren",
+      "rollen"
+    ]
+  },
+  {
+    "fr": "devenir",
+    "de": [
+      "werden"
+    ]
+  }
+]
