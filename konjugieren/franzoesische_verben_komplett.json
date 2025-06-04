@@ -22,6 +22,28 @@
     }
   },
   {
+    "französisch": "penser",
+    "deutsch": "denken",
+    "konjugation": {
+      "présent": {
+        "1ps": "pense",
+        "2ps": "penses",
+        "3ps": "pense",
+        "1pp": "pensons",
+        "2pp": "pensez",
+        "3pp": "pensent"
+      },
+      "passé_composé": {
+        "auxiliaire": "avoir",
+        "participe": "penser"
+      },
+      "futur_composé": {
+        "auxiliaire": "aller",
+        "infinitiv": "penser"
+      }
+    }
+  },
+  {
     "französisch": "aimer",
     "deutsch": "mögen",
     "konjugation": {
